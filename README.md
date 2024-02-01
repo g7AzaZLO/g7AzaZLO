@@ -19,7 +19,7 @@ and more other
 Discord: [G7]AzaZLO#9213  
 Personal Telegram: @azazloqi  
 Team Telegram: https://t.me/g7monitor  
-Notion: [https://clck.ru/34HMxd  ](https://g7node.notion.site)
+Notion: https://g7node.notion.site
 Teletype: https://teletype.in/@g7monitor  
 
 [![GitHub Streak](http://github-readme-streak-stats.herokuapp.com?user=MaloyMeee&theme=windows-dark&hide_border=true)](https://git.io/streak-stats)
