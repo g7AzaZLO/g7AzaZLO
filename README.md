@@ -2,7 +2,7 @@
 
 Welcome 🤘  
 PoS validator, crypto enthusiast.  
-I am a member of the [G7] noderunner team  
+I am a owner of the [G7] noderunner team  
 
   
 💬 Socials  
