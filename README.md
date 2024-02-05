@@ -3,17 +3,7 @@
 Welcome 🤘  
 PoS validator, crypto enthusiast.  
 I am a member of the [G7] noderunner team  
-  
-🧾 My testnets:  
-Eywa  
-Shardeum  
-Massa  
-Muon  
-IronFish  
-Opside  
-Aptos  
-QuickSilver  
-and more other  
+
   
 💬 Socials  
 Discord: [G7]AzaZLO#9213  
