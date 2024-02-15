@@ -6,7 +6,7 @@ I am a owner of the [G7] noderunner team
 
   
 💬 Socials  
-Discord: [G7]AzaZLO#9213  
+Discord: g7azazlo
 Personal Telegram: @azazloqi  
 Team Telegram: https://t.me/g7monitor  
 Notion: https://g7node.notion.site <br />
