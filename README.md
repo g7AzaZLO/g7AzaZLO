@@ -11,5 +11,6 @@ Personal Telegram: @azazloqi
 Team Telegram: https://t.me/g7monitor  
 Notion: https://g7node.notion.site <br />
 Teletype: https://teletype.in/@g7monitor  
+Explorer: https://explorer.g7team.tech/
 
 
