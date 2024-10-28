@@ -6,8 +6,8 @@ I'm a member of the G7[team]
 
   
 💬 Socials  
-Discord: g7azazlo
-Personal Telegram: @azazloqi  
+Discord: g7azazlo <br />
+Personal Telegram: @azazloqi  <br />
 Team Telegram: https://t.me/g7monitor  
 Notion: https://g7node.notion.site <br />
 Teletype: https://teletype.in/@g7monitor<br />
