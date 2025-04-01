@@ -12,4 +12,3 @@ Team Telegram: https://t.me/g7team_ru <br />
 Notion: https://g7node.notion.site <br />
 Teletype: https://teletype.in/@g7monitor<br />
 YouTube: https://www.youtube.com/@g7team<br />
-Explorer: https://explorer.g7team.tech/
