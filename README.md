@@ -34,10 +34,10 @@ CEO and member of G7[team].
    📫 How to reach me: <a href='mailto:t-k7n@yandex.com'>t-k7n@yandex.com</a>
 </p>
 
-### 🔑 Key points
-* Co-founder and core developer of [Ebat'Alert](https://t.me/ebatalertbot) - a social platform for traders with automated agents, real-time analytics, a screener, and composite alerts.
-* Creator of [web3automatization](https://github.com/g7AzaZLO/web3automatization) - a lightweight Python library for simplified interaction with Web3.
-* Author of a Telegram channel about crypto validators and node infrastructure - [G7](https://t.me/g7team_ru).
+## 🔑 Key points
+* **Co-founder** and **core developer** of [Ebat'Alert](https://t.me/ebatalertbot) - a social platform for traders with automated agents, real-time analytics, a screener, and composite alerts.
+* **Creator** of [web3automatization](https://github.com/g7AzaZLO/web3automatization) - a lightweight Python library for simplified interaction with Web3.
+* **Author of a Telegram channel** about crypto validators and node infrastructure - [G7](https://t.me/g7team_ru).
 
 ## 🛠 Technical Stack
 * **Languages:** Python
