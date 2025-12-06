@@ -47,10 +47,11 @@ CEO and member of G7[team].
 * **Infrastructure:** Docker, Nginx, Linux (Ubuntu Server), Git, CI/CD (GitHub Actions)
 
 ## 🧩 My opensource projects
-* **[CVMouse2HandTrack](https://github.com/g7AzaZLO/CVMouse2HandTrack)** — a computer-vision tool that enables mouse control using hand gestures. Built with real-time hand tracking and gesture recognition.
-* **[server_primary_setting](https://github.com/g7AzaZLO/server_primary_setting)** — an automated server initialization toolkit. With a single command, it updates the system, installs essential packages, and prepares a clean server for production use.
-* **[web3automatization](https://github.com/g7AzaZLO/web3automatization)** — a lightweight Python library that simplifies interaction with Web3 and automates routine blockchain-related operations.
-* **[base_subscriber_bot](https://github.com/g7AzaZLO/base_subscriber_bot)** — a customizable Telegram bot template that checks whether a user is subscribed to required channels. Suitable as a base for bots requiring subscription validation.
+* **[fastapi_ast_inference](https://github.com/g7AzaZLO/fastapi_ast_inference)** - A FastAPI plugin that performs AST-based analysis of your endpoint functions at startup to infer and auto-generate Pydantic response models for OpenAPI documentation.
+* **[web3automatization](https://github.com/g7AzaZLO/web3automatization)** - a lightweight Python library that simplifies interaction with Web3 and automates routine blockchain-related operations.
+* **[CVMouse2HandTrack](https://github.com/g7AzaZLO/CVMouse2HandTrack)** - a computer-vision tool that enables mouse control using hand gestures. Built with real-time hand tracking and gesture recognition.
+* **[server_primary_setting](https://github.com/g7AzaZLO/server_primary_setting)** - an automated server initialization toolkit. With a single command, it updates the system, installs essential packages, and prepares a clean server for production use.
+* **[base_subscriber_bot](https://github.com/g7AzaZLO/base_subscriber_bot)** - a customizable Telegram bot template that checks whether a user is subscribed to required channels. Suitable as a base for bots requiring subscription validation.
 
 
 <div align="center" style="margin: 40px 0">
