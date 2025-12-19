@@ -36,7 +36,7 @@ CEO and member of G7[team].
 
 ## 🔑 Key points
 * **Co-founder** and **core developer** of [Ebat'Alert](https://t.me/ebatalertbot) - a social platform for traders with automated agents, real-time analytics, a screener, and composite alerts.
-* **Creator** of [web3automatization](https://github.com/g7AzaZLO/web3automatization) - a lightweight Python library for simplified interaction with Web3.
+* **Creator** of several open-source libraries, including: [web3automatization](), [fastapi_ast_inference](https://github.com/g7AzaZLO/fastapi_ast_inference) and [envschema](https://github.com/g7AzaZLO/envschema)
 * **Author of a Telegram channel** about crypto validators and node infrastructure - [G7](https://t.me/g7team_ru).
 
 ## 🛠 Technical Stack
@@ -48,6 +48,7 @@ CEO and member of G7[team].
 
 ## 🧩 My opensource projects
 * **[fastapi_ast_inference](https://github.com/g7AzaZLO/fastapi_ast_inference)** - A FastAPI plugin that performs AST-based analysis of your endpoint functions at startup to infer and auto-generate Pydantic response models for OpenAPI documentation.
+* **[envschema](https://github.com/g7AzaZLO/envschema)** - Type-safe environment variables with automatic validation and documentation generation
 * **[web3automatization](https://github.com/g7AzaZLO/web3automatization)** - a lightweight Python library that simplifies interaction with Web3 and automates routine blockchain-related operations.
 * **[CVMouse2HandTrack](https://github.com/g7AzaZLO/CVMouse2HandTrack)** - a computer-vision tool that enables mouse control using hand gestures. Built with real-time hand tracking and gesture recognition.
 * **[server_primary_setting](https://github.com/g7AzaZLO/server_primary_setting)** - an automated server initialization toolkit. With a single command, it updates the system, installs essential packages, and prepares a clean server for production use.
